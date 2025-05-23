@@ -90,7 +90,7 @@ const ClientsSection = () => {
           /* Responsive layout */
           @media (max-width: 768px) {
             .clients-container {
-              flex-direction: column;
+              // flex-direction: column;
               align-items: center;
             }
               .clients-heading {

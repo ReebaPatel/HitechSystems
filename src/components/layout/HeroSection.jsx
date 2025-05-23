@@ -93,7 +93,7 @@ const HeroSection = () => {
           /* Responsive adjustments */
           @media (max-width: 640px) {
             .hero-section {
-              height: 70vh;
+              height: 80vh;
               max-height: 500px;
               padding-top: 32px;
             }
@@ -111,6 +111,7 @@ const HeroSection = () => {
             .hero-cta {
               padding: 12px 24px;
               font-size: 16px;
+              width: max-content;
             }
             .hero-image {
               object-fit: contain;
