@@ -6,7 +6,7 @@
 
 ## 📖 Overview  
 
-This repository contains the **official landing page** for **HiTech Systems**, a company providing techno-smart solutions for efficiency, safety, and lifestyle enhancement.  
+This repository contains the **official landing page** for **Hitech Systems**, a company providing techno-smart solutions for efficiency, safety, and lifestyle enhancement.  
 The website is a **responsive, modern frontend landing page** designed to effectively showcase the company’s products, services, and company profile.  
 
 The project was **built for a client**, focusing purely on **frontend development and deployment**.  
