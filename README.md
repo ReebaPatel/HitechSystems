@@ -1,8 +1,9 @@
 # 🌐 Hitech Systems – Client Landing Page  
 
-[Live Demo](https://hitechsystems.netlify.app)  
-
----
+[Live Demo]([https://hitechsystems.lovable.app/])  
+Frontend - Lovable
+Backend -Java Springboot
+---  
 
 ## 📖 Overview  
 
